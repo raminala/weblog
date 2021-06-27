@@ -1,4 +1,4 @@
-baseURL: http://examplesite.org
+baseURL: https://raminweb.netlify.app/
 title: Educenter | hugo education template
 theme: educenter-hugo
 paginate: '6'
