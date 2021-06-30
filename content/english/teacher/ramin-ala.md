@@ -26,7 +26,7 @@ contact:
 course: Electrical Engineering
 description: An Electrical Engineer.
 draft: false
-image: images/teachers/teacher-4.jpg
+image: images/teachers/teacher-5.jpg
 interest:
 - RF design
 - Harmonic Radars
